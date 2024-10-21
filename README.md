@@ -1,4 +1,4 @@
-# Goal Tracker App with React Native and TypeScript Integration
+# Goal Tracker App with React Native and Javascript
 
 This React Native app helps users track and manage their goals. It features a simple and interactive user interface where users can add, view, and delete goals. Built using TypeScript, the app leverages type annotations to enhance code maintainability and developer productivity.
 
